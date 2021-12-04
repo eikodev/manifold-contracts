@@ -11,7 +11,7 @@ import "@openzeppelin/contracts/utils/introspection/ERC165Checker.sol";
 import "@openzeppelin/contracts/utils/structs/EnumerableSet.sol";
 import "@openzeppelin/contracts-upgradeable/utils/AddressUpgradeable.sol";
 
-import "./extensions/ICreatorExtensionTokenURI.sol";
+import "../extensions/ICreatorExtensionTokenURI.sol";
 
 import "./ICreatorCore.sol";
 
